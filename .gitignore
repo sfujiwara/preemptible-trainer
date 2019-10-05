@@ -1,0 +1,18 @@
+# Python
+__pycache__
+
+# Virtual environment
+venv
+.venv
+
+# PyCharm
+.idea
+
+# Visual Studio Code
+.vscode
+
+# Mac
+.DS_Store
+
+# Output directory for local
+outputs
