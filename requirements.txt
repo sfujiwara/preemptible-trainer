@@ -1,4 +1,4 @@
 google-api-python-client==1.7.11
 requests==2.22.0
-tensorflow-gpu==2.0.0
+tensorflow-gpu==2.5.3
 tensorflow-datasets==1.2.0
